@@ -1,4 +1,4 @@
-![image](https://github.com/ranigarg/Developer-Portfolio-Landing-Page---HTML-CSS-Project---In-Class---v44iixjho87v/assets/139784738/b506a087-bb97-4130-832a-5e4aec554c0d)# html-css-js-project-boilerplate
+# html-css-js-project-boilerplate
 # New_Portfolio
 This portfolio is a small project using the HTML/CSS and Bootstrap. I will be using the this to showcase my projects and skills [LIVE REPLIT DEPLOYMENT]( https://portfolio1--ranigarg.repl.co/)
 # Screenshot:
