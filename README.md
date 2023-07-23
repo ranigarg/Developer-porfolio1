@@ -1,8 +1,10 @@
-# html-css-js-project-boilerplate
+![image](https://github.com/ranigarg/Developer-Portfolio-Landing-Page---HTML-CSS-Project---In-Class---v44iixjho87v/assets/139784738/b506a087-bb97-4130-832a-5e4aec554c0d)# html-css-js-project-boilerplate
 # New_Portfolio
-This portfolio is a small project using the HTML/CSS and Bootstrap. I will be using the this to showcase my projects and skills [LIVE REPLIT DEPLOYMENT](https://newportfolio-1.jstackshubham.repl.co/)
+This portfolio is a small project using the HTML/CSS and Bootstrap. I will be using the this to showcase my projects and skills [LIVE REPLIT DEPLOYMENT]( https://portfolio1--ranigarg.repl.co/)
 # Screenshot:
-![Screenshot 2022-11-08 at 7 49 20 AM](https://user-images.githubusercontent.com/100840176/200459028-a58cc84b-e550-4395-9b0b-d1b588b1b27f.png)
+![image](https://github.com/ranigarg/Developer-Portfolio-Landing-Page---HTML-CSS-Project---In-Class---v44iixjho87v/assets/139784738/bb518677-f0ef-4b80-8dc0-e9984e142345)
+
+
 # Technologies Used:
 * HTML
 * CSS
